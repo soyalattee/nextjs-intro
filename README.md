@@ -12,6 +12,6 @@ ex)
 ctrl+u 눌러서 소스코드 확인
 
 - CSR 사이트
-  https://funderful.kr/
+  https://funderful.kr/  
   (처음에 하얀화면상태 )
   https://www.plaync.com/kr/index

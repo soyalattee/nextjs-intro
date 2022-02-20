@@ -30,3 +30,5 @@ ctrl+u 눌러서 소스코드 확인
    hydration : start react.js in the front side  
    리액트는 서버에서 완성된 HTML이 내려와 이미 화면에 제대로 렌더링이 되어있는지 모르고 렌더링을 할
    수 있기 때문에 SSR을 하는경우 render method가 아닌 hydrate 메소드를 사용해야함(리렌더링방지)
+
+3. Link 사용

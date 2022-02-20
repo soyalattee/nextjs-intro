@@ -13,9 +13,9 @@ server-side-rendering은 서버에서 만든 ui(html)문서를 가져오므로 �
 ex)
 ctrl+u 눌러서 소스코드 확인
 
-- CSR 사이트
-  https://funderful.kr/
-  (처음에 하얀화면상태 )
+- CSR 사이트  
+  https://funderful.kr/    
+  (처음에 하얀화면상태 )  
   https://www.plaync.com/kr/index
 
 ### Note

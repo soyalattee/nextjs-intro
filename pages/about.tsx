@@ -8,7 +8,7 @@ export default function Potato() {
   return (
     <div>
       <NavBar />
-      <h1>about 감자</h1>
+      <h1 className="active">about 감자</h1>
     </div>
   );
 }

@@ -6,6 +6,12 @@ export default function Home() {
     <div>
       <NavBar />
       <h1>Hello</h1>
+      <a href="#">a tag</a>
+      <style jsx>{`
+        a {
+          color: red;
+        }
+      `}</style>
     </div>
   );
 }
